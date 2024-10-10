@@ -83,7 +83,7 @@ select = [
 ]
 ignore = [
   "Q000",
-  "RUFF001",
+  "RUF001",
   "RUF006", # loop
 ]
 

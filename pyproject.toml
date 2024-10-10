@@ -83,12 +83,8 @@ select = [
 ]
 ignore = [
   "Q000",
-  "RUF001", # TODO
-  "PERF401", # TODO
-  "PLR0915", # TODO
-  "PLR0912", # TODO
-  "PIE794", # TODO
-  "PLR0913", # TODO
+  "RUFF001",
+  "RUF006", # loop
 ]
 
 [tool.mypy]

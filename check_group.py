@@ -6,8 +6,6 @@ from aiogram.filters import CommandStart
 from config import BOT_TOKEN
 
 
-API_TOKEN = 'API_TOKEN'
-
 logging.basicConfig(level=logging.INFO)
 
 if BOT_TOKEN is not None:
